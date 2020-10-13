@@ -6,12 +6,12 @@
 This is thought experiment/suggested deployment to demonstrate the use of Native AWS Developer Tools
 for the deployment of 
 
-    * Kubernetes upon AWS EKS,
-    * AWS CodeX services 
-    * deployment of;
-        * NGINX Controller
-        * NGINX+ serving WordPress
-    * Essential App Protect and CloudFront
+* Kubernetes upon AWS EKS,
+* AWS CodeX services 
+* deployment of;
+    * NGINX Controller
+    * NGINX+ serving WordPress
+* Essential App Protect and CloudFront
         
 
 ## Table of Contents
